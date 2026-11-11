@@ -1,5 +1,5 @@
 # Start applikation
-  - Kald collection 'folketingetdb', da vi specifik referere til den inde i model
+  - Kald collection 'folketingetdb', da vi specifik refererer til den inde i model
   - Kør modulet 'fillDataBase.js' (For at importere data til MongoDB) 
   - sørg for DB forbindelsen er rigtig inde i 'app.js'
   - kør 'app.js'
