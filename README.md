@@ -1,4 +1,5 @@
 # Start applikation
+  - Kør modulet 'fillDataBase.js' (For at importere data til MongoDB) 
   - sørg for DB forbindelsen er rigtig inde i 'app.js'
   - kør 'app.js'
 
@@ -17,4 +18,5 @@
   <img width="1008" height="555" alt="image" src="https://github.com/user-attachments/assets/6f3c8bfa-bcb3-447a-9cfb-2e1309692d35" />
 
   ## Delete
-  
+  <img width="1002" height="492" alt="image" src="https://github.com/user-attachments/assets/74eeaa6a-034e-494a-ad4a-283b4c18ac0c" />
+
