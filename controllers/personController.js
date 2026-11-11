@@ -20,7 +20,7 @@ exports.getById = async (req, res) => {
 }
 
 exports.updateById = async (req, res) => {
-    const person = await Person.findByIdAndUpdate(req.params.id, req.body, {new: true})
+    const person = await Person.findByIdAndUpdate(req.params.id, req.body, {returnDocument: 'after'})
     if (!person) {
         return res.status(404).json({ error: 'Personen ikke fundet'})
     }
